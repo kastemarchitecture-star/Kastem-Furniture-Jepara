@@ -1,4 +1,4 @@
-# Kastem Furniture Jepara — Landing Page
+# Kastem Furniture Jepara
 
 Situs satu halaman, siap pakai. Tidak perlu build step, tidak ada dependency server — cukup file statis (HTML + CSS + JS + gambar).
 
